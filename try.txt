@@ -1,1 +1,2 @@
 This file was added directly on GitHub.
+echo "Hello $(date)" >> test.txt
